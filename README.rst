@@ -19,12 +19,12 @@ much faster to develop and enjoyable thanks to:
 
 **Peter Harrison**
   Who posts many useful and detailed resources in `micromouseonline.com
-  <http://micromouseonline.com>`__, `GitHub
-  <https://github.com/micromouseonline>`__, and who is always willing to help.
+  <http://micromouseonline.com>`__ and on his `micromouseonline GitHub
+  <https://github.com/micromouseonline>`__ profile and who is always willing to help.
 **Green Ye**
-  Who shares `details about his micromice <http://www.greenye.net/>`__ and
+  Who shares details about his `micromouse <http://www.greenye.net/>`__ and
   posts many useful resources in `micromouseusa.com
-  <http://micromouseusa.com>`__. His Futura Project videos are a great starting
+  <http://micromouseusa.com>`__. His `Futura Project <http://www.greenye.net/Pages/Micromouse/Futura.htm>`__ videos are a great starting
   point!
 
 
