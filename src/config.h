@@ -24,11 +24,11 @@
 #define KP_ANGULAR .05
 #define KD_ANGULAR 1.
 #define KP_ANGULAR_FRONT .5
-#define KI_ANGULAR_FRONT 2.
-#define KP_ANGULAR_SIDE 2.
-#define KI_ANGULAR_SIDE 4.
-#define KP_ANGULAR_DIAGONAL 2.
-#define KI_ANGULAR_DIAGONAL 4.
+#define KI_ANGULAR_FRONT 1.
+#define KP_ANGULAR_SIDE 4.
+#define KI_ANGULAR_SIDE 2.
+#define KP_ANGULAR_DIAGONAL 4.
+#define KI_ANGULAR_DIAGONAL 2.
 
 struct control_constants {
 	float kp_linear;
