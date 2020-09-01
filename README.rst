@@ -6,7 +6,7 @@
 Bulebule
 ========
 
-A micromouse maze-solving robot.
+An awesome micromouse maze-solving robot.
 
 Please read the `Bulebule documentation`_ for a bit more detailed introduction.
 

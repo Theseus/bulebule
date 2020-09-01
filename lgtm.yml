@@ -1,0 +1,13 @@
+extraction:
+  cpp:
+    prepare:    # Customizable step used by all languages.
+      packages:
+        - gcc-arm-embedded
+    after_prepare:    # Customizable step used by all languages.
+      - export GNU_MAKE=make
+      - export GIT=true
+      - ./scripts/setup_libopencm3.sh
+    index:    # Customizable step used by all languages.
+      build_command:
+       - cd src
+       - $GNU_MAKE
