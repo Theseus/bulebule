@@ -16,6 +16,7 @@ addons:
       - graphviz
       - libbluetooth-dev
       - libglu1-mesa
+      - cppcheck
 
 install:
   - wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
@@ -33,6 +34,7 @@ before_script:
 script:
   - ./scripts/checkformat_clang.sh
   - ./scripts/checkformat_checkpatch.sh
+  - ./scripts/checkstatic_cppcheck.sh
   - make -C src
   - source activate bulebule
   - pytest -sv
