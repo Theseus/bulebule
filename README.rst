@@ -14,8 +14,8 @@ Please read the `Bulebule documentation`_ for a bit more detailed introduction.
 Acknowledgments
 ---------------
 
-We truly feel in debt with some people who helped us a lot. This project was
-much faster to develop and enjoyable thanks to:
+We truly feel indebted to some people who helped us a lot. This project was
+much faster to develop and enjoyable. Thanks to:
 
 **Peter Harrison**
   Who posts many useful and detailed resources in `micromouseonline.com
